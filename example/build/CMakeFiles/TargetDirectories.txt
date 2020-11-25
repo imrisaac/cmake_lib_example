@@ -1,0 +1,3 @@
+/home/ireed/Development/tsmavcom/example/build/CMakeFiles/rebuild_cache.dir
+/home/ireed/Development/tsmavcom/example/build/CMakeFiles/edit_cache.dir
+/home/ireed/Development/tsmavcom/example/build/CMakeFiles/lib_usage_example.dir

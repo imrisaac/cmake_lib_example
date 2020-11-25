@@ -1,0 +1,7 @@
+/home/ireed/Development/tsmavcom/build/CMakeFiles/install/strip.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/install.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/list_install_components.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/rebuild_cache.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/edit_cache.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/install/local.dir
+/home/ireed/Development/tsmavcom/build/CMakeFiles/sharecpplibexample.dir

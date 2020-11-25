@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ireed/Development/tsmavcom/example/example.cpp
+iostream
+-
+sharedcpplibexample.h
+/home/ireed/Development/tsmavcom/example/sharedcpplibexample.h
+
